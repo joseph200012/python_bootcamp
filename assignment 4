@@ -1,0 +1,21 @@
+
+
+#assign multiple objects to same value
+
+a = b = c = 20
+print(a/10)
+print(b*50)
+print(c+60)
+
+#using replace to make changes in string variable
+
+City = "DEHRI"
+print(City.replace("H", "G"))
+
+#create two variables and swap their values assigned
+
+a=5
+b=3.5
+a, b = b, a
+print("a =", a)
+print("b =", b)

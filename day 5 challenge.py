@@ -1,4 +1,4 @@
-# to craete a list and to add, delete, find max , min etc
+# to create a list and to add, delete, find max , min etc
 print('Write a program to create a list of n integer values and do the following:')
 
 a = []
